@@ -4,7 +4,7 @@
     { "id": 2, "firstName": "Peggy", "lastName": "Nelson" },
     { "id": 3, "firstName": "Karen", "lastName": "Page" }
   ],
-  "contact": [
+  "contacts": [
     { "id": 1, "name": "Matt", "email": "murdock@gmail.com" },
     { "id": 2, "name": "Peggy", "email": "nelson@gmail.com" },
     { "id": 3, "name": "Karen", "email": "page@gmail.com" }
